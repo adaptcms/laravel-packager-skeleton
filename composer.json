@@ -6,7 +6,7 @@
     {
       "name": ":author_name",
       "email": ":author_email",
-      "homepage": "https://www.adaptcms.com/packages/:lc:vendor/:lc:package"
+      "homepage": "https://www.adaptcms.com/packages/:lc:vendor:lc:package"
     }
     ],
   "homepage": "https://github.com/:lc:vendor/:lc:package",
